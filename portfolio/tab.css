@@ -1,0 +1,123 @@
+@media (min-width: 600px) and (max-width: 900px){
+    .container{
+        overflow-x:hidden;
+    }
+    .left-sec-0{
+        display: block;
+    }
+    .box-0{
+        top:1rem;
+        max-width:90%;
+        margin: auto;
+        margin-bottom: 3rem;
+        padding: 1.8rem;
+        gap: 5vh;
+    }
+    .left-sec{
+        display: none;
+    }
+    .mid-sec{
+        width: 80%;
+        margin:auto;
+        height: auto;
+        max-width:100%;
+    }
+    .box-2{
+        justify-content: space-around;
+    }
+    .social ul li{
+        padding: 1.5rem;
+    }
+    .nav-box{
+        display: none;
+    }
+    .FP_item-2{
+        width: 100%;
+    }
+    #preloader{
+        height: 100vh;
+    }
+    .large{
+        font-size: 12vw;
+    }
+    .time{
+        height:16vh;
+        padding: 0 13px;
+        line-height: 1.5;
+    }
+    .flex-row{
+        justify-content: space-between;
+    }
+    .M{
+        font-size: 4vw;
+    }
+    .S{
+        font-size: 3.5vw;
+    }
+    .small{
+        font-size: 3vw;
+    }
+    .social ul li{
+        padding: 2.4vw;
+    }
+    .border{
+        border-radius: 4vw;
+    }
+    .row{
+        flex-wrap: wrap;
+    }
+    .headings{
+        font-size: 9vw;
+    }
+    .form p{
+        font-size: 2.7vw;
+    }
+    .sec{
+        margin: 2vh 1vh 2vh 0;
+    }
+    .burger{
+        font-size: 3vh;
+        padding: 1vh 1.8vh;
+    }
+    .bar{
+        font-size: 2vw;
+        padding:1.3vw 2vw;
+    }
+    .bar i{
+        font-size: 2vw;
+    }
+    .open-nav i{
+        font-size: 4vw;
+        padding: 1vw;
+        height: 9vh;
+        width: 8vw;
+    }
+    .open-nav p{
+        font-size: 4vw;
+        padding: 1vw;
+        margin: 0;
+    }
+    .open-nav ul{
+        margin-left: 0;
+    }
+    #preloader{
+        background-size: 25%;
+    }
+    .smallbox i {
+        width: 10rem;
+        height: 14rem;
+        padding: 4rem 0;
+        margin: 10px;
+        border-style: solid;
+        border-color: var(--grey);
+        border-width: 1px;
+        border-radius: 6rem;
+    }
+    .label p{
+        font-size: 6vw;
+    }
+    #certificates .btn{
+        height:4rem;
+        width:4rem;
+    }
+}
